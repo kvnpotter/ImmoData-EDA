@@ -1,4 +1,4 @@
-# Exploratory data analysis and visualisation of immoweb properties all over Belgium
+# **ImmoData - Exploratory data analysis and visualisation**
 
 
 ## Table of Contents
