@@ -1,10 +1,10 @@
 # **ImmoData - Exploratory data analysis and visualisation**
-
-[Introduction](#Introduction)     |     [Description](#Description)     |       [Installation-Environment setup](#Installation-Environment-setup)    |       [Usage](#Usage)    |[Contributors](#Contributors)    |      [Timeline](#Timeline)       |       [List of Improvements](#list-of-improvements)  
-
 ## Table of Contents
+
 - [Project Overview](#project_overview)
+- [Introduction](#Introduction) 
 - [Prerequisites](#Prerequisites)
+- [Installation-Environment setup](#Installation-Environment-setup)
 - [Usage](#Usage)
 - [Structure](#Structure)
 - [Contributors](#Contributors)
