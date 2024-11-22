@@ -1,8 +1,8 @@
 # **ImmoData - Exploratory data analysis and visualisation**
 ## Table of Contents
 
-- [Project Overview](#project_overview)
 - [Introduction](#Introduction) 
+- [Project Overview](#project_overview)
 - [Prerequisites](#Prerequisites)
 - [Installation-Environment setup](#Installation-Environment-setup)
 - [Usage](#Usage)
