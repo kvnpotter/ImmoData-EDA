@@ -1,13 +1,6 @@
 # **ImmoData - Exploratory data analysis and visualisation**
-## Table of Contents
 
-- [Introduction](#Introduction) 
-- [Project Overview](#project_overview)
-- [Prerequisites](#Prerequisites)
-- [Installation-Environment setup](#Installation-Environment-setup)
-- [Usage](#Usage)
-- [Structure](#Structure)
-- [Contributors](#Contributors)
+[Introduction](#Introduction)    |    [Description](#Description)    |    [Installation-Environment setup](#Installation-Environment-setup)    |    [Usage](#Usage)    |    [Contributors](#Contributors)    |    [Timeline](#Timeline)
 
 ## **Introduction**
 
@@ -37,17 +30,8 @@ Specifications for the final dataset are:
 My personal contributions to this project can be found in the contributors section of this README.
 
 The repository contains multiple branches
-- Main: contains the code for scraping the chosen website
-- KevinDataClean: my working branch, containing in addition a jupyter notebook used for data cleaning and start of exploratory data analysis
+- Main: contains the data, notebooks and graphs/tables I created for the analysis
 - Other working branches for contributors
-
-
-# Project Overview
-This is a project done as a part of Data Science and AI course at Becode in 2024.
-The mission is to to execute exploratory data analysis and visualisation of a dataset, including information about at least 10.000 properties all over Belgium. 
-Main steps of the project are:
-1. Cleaning of the scrapped data (handaling duplicates, missing data and outliers)
-2.  Data analysis and interpretation(examination of correlation and visulization of target variable with the most correlated ones)
 
 ## **Description**
 ## Exploring real estate data
@@ -86,14 +70,6 @@ Packages used:
 - scipy
 - statsmodels
 
-# Prerequisites
-Make sure you have the following:
-
-1. Python 3.x installed.
-2. pip for managing Python packages.
-3. for the required libraries please refer to 
-    requirements.txt --- install using the command pip install -r utils/requirements.txt
-
    ## **Installation-Environment setup**
 
 You can create a virtual environment for the script using venv.
@@ -116,36 +92,26 @@ conda env list #verify the environment was installed correctly
 
 ## **Usage**
 
-Create a local copy of the repository by cloning and navigate to the directory using CLI. Running the following command runs the main.py script, which will scrape the real estate website search pages (for houses and apartments excluding annuity sales) for a specified number of pages. 333 pages were scraped for the project, resulting in over 15.000 listings. However, for the sake of brevity, a much smaller amount of pages is set in the code. This can be changed in the main.py file. The script will create initial URL and full URL lists, as well as export the data in csv format in the Data directory.
+The repository contains following notebooks outlining the steps taken
+- DataCleaningKevin : All steps performed to clean the dataset
+- DataAnalysisKevin : All steps performed to analyse the dataset
+- Additional analyses pertaining to correlation and spatial distribution of property pricing can be found in contrbutor's branches
 
-```shell
-python main.py
-```
+In addition, the full, and cleaned, datasets can be found in the Data directory.
+When possible, tables and graphs from analysis results were added to the Results directory.
 
-
-# Usage
-
-This script will:
-1. Load a dataset previously scrapped from Immoweb
-2. Cleans it in regarding duplicates, missing data and outliers
-3. Investigates correlation to indicate the most important influential variables
-4. Visualize the result of EDA
-5. The final output could be used for analysing the housing market in Belgium using ML
-
-
-# Structure
-The project has the following core components:
-
-1.
-    
-2. 
-
-3. requirements.txt : contains list of dependencies for the project.
 
 # Contributors 
-This proects is done by:
+This project was completed by:
 1. [Kevin](https://github.com/kvnpotter)
-2. [Maxim](https://github.com/MaximSchuermans)
-3. [Fatemeh](https://github.com/Fatemeh992)
+   - Data cleaning
+   - Distributions, normality, correlations, dimension reduction, differences in median price between groups
+3. [Maxim](https://github.com/MaximSchuermans)
+4. [Fatemeh](https://github.com/Fatemeh992)
+
+# **Timeline**
+
+Start project: 19/11/2024 09:30
+End project, with presentation of results: 22/11/2024 12:30
 
 
