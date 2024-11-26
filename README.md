@@ -95,7 +95,8 @@ conda env list #verify the environment was installed correctly
 The repository contains following notebooks outlining the steps taken
 - DataCleaningKevin : All steps performed to clean the dataset
 - DataAnalysisKevin : All steps performed to analyse the dataset
-- Additional analyses pertaining to correlation and spatial distribution of property pricing can be found in contrbutor's branches
+- DataAnalysisMaxim : Number qualitative/quantitative variables, transformation categorical - numerical, test effect of transformation method on model, percentage missing values, spatial analysis
+- Additional analyses pertaining to correlation can be found in contributor's branch
 
 In addition, the full, and cleaned, datasets can be found in the Data directory.
 When possible, tables and graphs from analysis results were added to the Results directory.
@@ -107,7 +108,10 @@ This project was completed by:
    - Data cleaning
    - Distributions, normality, correlations, dimension reduction, differences in median price between groups
 3. [Maxim](https://github.com/MaximSchuermans)
-4. [Fatemeh](https://github.com/Fatemeh992)
+   - Transformation types from categorical to numerical values and test
+   - Missing values
+   - Spatial analysis of property price in Belgium
+5. [Fatemeh](https://github.com/Fatemeh992)
 
 # **Timeline**
 
