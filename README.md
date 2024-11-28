@@ -112,7 +112,7 @@ This project was completed by:
    - Missing values
    - Spatial analysis of property price in Belgium
 5. [Fatemeh](https://github.com/Fatemeh992)
-
+  - Correlation and data visualization
 # **Timeline**
 
 Start project: 19/11/2024 09:30
