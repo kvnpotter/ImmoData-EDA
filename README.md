@@ -96,7 +96,7 @@ The repository contains following notebooks outlining the steps taken
 - DataCleaningKevin : All steps performed to clean the dataset
 - DataAnalysisKevin : All steps performed to analyse the dataset
 - DataAnalysisMaxim : Number qualitative/quantitative variables, transformation categorical - numerical, test effect of transformation method on model, percentage missing values, spatial analysis
-- DataAnalysisFatemeh : Correlation and data visualization
+- correlation : Correlation and data visualization - Fatemeh
 
 In addition, the full, and cleaned, datasets can be found in the Data directory.
 When possible, tables and graphs from analysis results were added to the Results directory.
