@@ -96,7 +96,7 @@ The repository contains following notebooks outlining the steps taken
 - DataCleaningKevin : All steps performed to clean the dataset
 - DataAnalysisKevin : All steps performed to analyse the dataset
 - DataAnalysisMaxim : Number qualitative/quantitative variables, transformation categorical - numerical, test effect of transformation method on model, percentage missing values, spatial analysis
-- Additional analyses pertaining to correlation can be found in contributor's branch
+- correlation : Correlation and data visualization - Fatemeh
 
 In addition, the full, and cleaned, datasets can be found in the Data directory.
 When possible, tables and graphs from analysis results were added to the Results directory.
@@ -112,7 +112,7 @@ This project was completed by:
    - Missing values
    - Spatial analysis of property price in Belgium
 5. [Fatemeh](https://github.com/Fatemeh992)
-
+   - Correlation and data visualization
 # **Timeline**
 
 Start project: 19/11/2024 09:30
