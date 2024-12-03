@@ -3,6 +3,7 @@
 - Architecture ok but as you have multiple notebooks don't hesitate to put them in a folder
 - Very interesting to discuss dimensions reduction :fire:
 - Good unbalanced and duplicate approach
+- Only 1 branch at the end :fire:
 - like the missingno package, did not know it
 - good correlation comparison (pearson/spearman) and explanation
 - presenting results with notebook is not amazing, next time see it like a business presentation in front of non technical people. Moreover you did not run any code so it was not necessary. But in general the presentation was good, clear and you had a good storytelling.
