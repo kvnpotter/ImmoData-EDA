@@ -34,7 +34,7 @@ The repository contains multiple branches
 - Other working branches for contributors
 
 ## **Description**
-## Exploring real estate data
+### Exploring real estate data
 
 Following steps were taken to clean the data: 
 - Duplicates handled (complete row duplicates, listings posted more than once on the website)
@@ -70,7 +70,7 @@ Packages used:
 - scipy
 - statsmodels
 
-   ## **Installation-Environment setup**
+## **Installation-Environment setup**
 
 You can create a virtual environment for the script using venv.
 ```shell
@@ -86,7 +86,7 @@ conda activate <my-env>
 Included in the repository is a cross-platform environment.yml file, allowing to create a copy of the one used for this project. The environment name is given in the first line of the file.
 ```shell
 conda env create -f environment.yml
-conda activate wikipedia_scraper_env
+conda activate ImmoEliza
 conda env list #verify the environment was installed correctly
 ```
 
@@ -102,7 +102,7 @@ In addition, the full, and cleaned, datasets can be found in the Data directory.
 When possible, tables and graphs from analysis results were added to the Results directory.
 
 
-# Contributors 
+## **Contributors** 
 This project was completed by:
 1. [Kevin](https://github.com/kvnpotter)
    - Data cleaning
@@ -113,7 +113,7 @@ This project was completed by:
    - Spatial analysis of property price in Belgium
 5. [Fatemeh](https://github.com/Fatemeh992)
    - Correlation and data visualization
-# **Timeline**
+## **Timeline**
 
 Start project: 19/11/2024 09:30
 End project, with presentation of results: 22/11/2024 12:30
